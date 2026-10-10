@@ -1,0 +1,19 @@
+class printer
+in that method printdoc with 2 argument document name and pages
+print that this document is printing
+for loop from 0 to pages in that print printing page i of totalpage
+printing done
+
+
+class pc1 implements runnable
+in that constructor 3 argument printer p, string document name, number of pages
+run method in that call printdoc using printer object and pass name and page
+
+class pc1 implements runnable
+in that constructor 3 argument printer p, string document name, number of pages
+run method in that call printdoc using printer object and pass name and page
+
+class printerdemo in that main method
+make object printer,pc1,pc2
+thread(pc1) thread(pc2)
+start
